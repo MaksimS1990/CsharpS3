@@ -1,0 +1,15 @@
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\bin\Debug\net6.0\ex002.exe
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\bin\Debug\net6.0\ex002.deps.json
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\bin\Debug\net6.0\ex002.runtimeconfig.json
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\bin\Debug\net6.0\ex002.dll
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\bin\Debug\net6.0\ex002.pdb
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.csproj.AssemblyReference.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.AssemblyInfoInputs.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.AssemblyInfo.cs
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.dll
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\refint\ex002.dll
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.pdb
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ex002.genruntimeconfig.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex002\obj\Debug\net6.0\ref\ex002.dll
