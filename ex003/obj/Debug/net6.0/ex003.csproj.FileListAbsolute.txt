@@ -1,0 +1,15 @@
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.csproj.AssemblyReference.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.AssemblyInfoInputs.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.AssemblyInfo.cs
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\bin\Debug\net6.0\ex003.exe
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\bin\Debug\net6.0\ex003.deps.json
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\bin\Debug\net6.0\ex003.runtimeconfig.json
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\bin\Debug\net6.0\ex003.dll
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\bin\Debug\net6.0\ex003.pdb
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.dll
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\refint\ex003.dll
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.pdb
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ex003.genruntimeconfig.cache
+C:\Users\English\Desktop\Csharp_S3\CsharpS3\ex003\obj\Debug\net6.0\ref\ex003.dll
